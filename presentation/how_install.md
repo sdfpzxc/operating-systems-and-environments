@@ -35,6 +35,8 @@ md5sum satanic-edition-666.10-desktop-i386.iso
 ```
 В Windows можно использовать `certutil -hashfile <файл> MD5`.
 
+`https://archive.org/compress/UbuntuSatanicEdition/formats=ISO%20IMAGE&file=/UbuntuSatanicEdition.zip`
+
 ---
 
 ## Шаг 2. Установка VirtualBox
