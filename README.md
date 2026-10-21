@@ -97,6 +97,24 @@
 преподавательский репозиторий
 с демонстрацией механизмов IPC в виде небольших приложений на C++.
 
+## Навигация по веткам и материалам
+
+| Раздел | Материалы | Git-ветка | Папка с файлами |
+| :--- | :--- | :--- | :--- |
+| **Bash — основы** | Снимки ВМ, простые команды | `hw_1_vm_snapshots` | [hw_1_vm_snapshots](./hw_1_vm_snapshots) |
+| **Bash — основы** | Простые команды | `hw_2_simple_commands` | [hw_2_simple_commands](./hw_2_simple_commands) |
+| **Bash — администрирование** | Процессы и сетевой адаптер | `hw_3_administration` | [hw_3_administration](./hw_3_administration) |
+| **Bash — основы (ч. 2)** | Простые команды (продолжение) | `hw_4_simple_commands_part_2` | [hw_4_simple_commands_part_2](./hw_4_simple_commands_part_2) |
+| **Bash — администрирование (ч. 2)** | Администрирование (продолжение) | `hw_5_administration_part_2` | [hw_5_administration_part_2](./hw_5_administration_part_2) |
+| **Bash — написание скриптов** | Демоны systemd | `hw_6_systemd_daemons` | [hw_6_systemd_daemons](./hw_6_systemd_daemons) |
+| **Bash — написание скриптов (ч. 2)** | Функции | `hw_7_functions` | [hw_7_functions](./hw_7_functions) |
+| **GASM — основы** | Автоматизация сборки (Makefiles) | `hw_8_unix_makefiles` | [hw_8_unix_makefiles](./hw_8_unix_makefiles) |
+| **Теория** | Теоретические материалы | `theory` | [theory from lessons](./theory%20from%20lessons) |
+| **Доклад** | Доклады на определенную тему | `report_steamos` | [presentation](./presentation) |
+
+---
+*Примечание: Ссылки в колонке «Папка с файлами» ведут на директории в текущей ветке (`main`). Чтобы посмотреть код конкретного задания, переключитесь на соответствующую Git-ветку в выпадающем списке в левом верхнем углу репозитория на GitHub.*
+
 ## Footnotes
 
 [^1]: По способам межпроцессного взаимодействия существует отдельный
